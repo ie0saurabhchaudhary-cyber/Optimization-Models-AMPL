@@ -1,0 +1,10 @@
+set material := A B C;
+
+param: material: cost, nickel, chromium:=
+A	  100	0.1		0.2
+B	  250	0.2		0.1
+C	  180	0.05	0.15;
+	  
+param tam := 100;
+param tnic := 12;
+param tchr := 15;	   

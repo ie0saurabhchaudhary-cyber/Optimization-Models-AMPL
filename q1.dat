@@ -1,0 +1,11 @@
+set cabinet := bookshelf cabinets_with_doors cabinet_with_drawers custom;
+
+param: wood labor revenue := 
+bookshelf 10 2 100 
+cabinets_with_doors 12 4 150 
+cabinet_with_drawers 25 8 200
+custom 20 12 400;
+
+param av_wood := 5000;
+param av_labor := 1500;
+ 

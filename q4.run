@@ -1,0 +1,9 @@
+reset;
+
+model q4.mod;
+data q4.dat;
+
+option solver cplex;
+solve;
+
+display x, tcost;

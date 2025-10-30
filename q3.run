@@ -1,0 +1,9 @@
+reset;
+
+model q3.mod;
+data q3.dat;
+
+option solver cplex;
+solve;
+
+display x, ttime;

@@ -1,0 +1,8 @@
+reset;
+
+model q2.mod;
+data q2.dat;
+option solver cplex;
+solve;
+
+display x, tcost;

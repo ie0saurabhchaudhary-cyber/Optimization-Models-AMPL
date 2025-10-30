@@ -1,0 +1,6 @@
+reset;
+model q1.mod;
+data q1.dat;
+option solver cplex;
+solve;
+display x, profit;
