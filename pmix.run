@@ -1,0 +1,9 @@
+reset;
+
+model pmix.mod;
+data pmix.dat;
+
+option solver cplex;
+solve;
+
+display x, tprofit;

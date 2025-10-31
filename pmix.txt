@@ -1,0 +1,5 @@
+A manufacturing company produces two products, Product 1 and Product 2. Each product requires a certain amount of time on two different machines, Machine A and Machine B. The objective is to maximize total profit given the limited time available on each machine.
+Resource,Product 1 (per unit),Product 2 (per unit),Available Capacity
+Machine A time,2 hours,1 hour,100 hours/week
+Machine B time,1 hour,3 hours,90 hours/week
+Profit,$4 per unit,$5 per unit,

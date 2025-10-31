@@ -1,0 +1,5 @@
+A company has two factories (Sources) that produce a product and three warehouses (Destinations) that require it. The cost of shipping one unit of product from each factory to each warehouse is given in the table below. The factories have limited supply, and the warehouses have specific demand. The objective is to minimize the total transportation cost.
+Shipping Cost ($/unit),Warehouse 1,Warehouse 2,Warehouse 3,Supply
+Factory 1,5,8,4,70 units
+Factory 2,3,7,6,80 units
+Demand,40 units,50 units,60 units,

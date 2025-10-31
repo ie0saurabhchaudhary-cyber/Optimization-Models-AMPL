@@ -1,0 +1,9 @@
+set factory := f1 f2;
+set warehouse := w1 w2 w3;
+
+param supply := f1 70 f2 80;
+param demand := w1 40 w2 50 w3 60;
+param cost:
+	w1 w2 w3:=
+f1  5  8  4
+f2  3  7  6;	
